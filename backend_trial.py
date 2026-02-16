@@ -31,3 +31,5 @@ def pay_gatw():
    print("file printign....pdf") # this is only  true if and only if the razopay assures and sends back a confirmation
 
 
+#this is basically how the flask should work i guess 
+"""just a model mf dont start rubbing now """

@@ -495,7 +495,7 @@ function createConfirmationModal(data) {
     });
   });
 }
-
+// this son of a bitch tolled me around for quite a time now i somehow fixed it please hacker chetanmare dont fw this i dont know how its still working and all , hacker chettamare dont even try to touch this shit i swear 
 // Payment handler - FIXED to show modal immediately
 payBtn.addEventListener('click', handlePayment);
 
